@@ -39,11 +39,11 @@ Consiste na criação de um jogo de RPG simples em Java, onde o jogador interage
 Aqui estão os personagens do jogo:
 - Mago:
   
-  <img src="https://i.pinimg.com/564x/62/c8/1b/62c81bf33cbb05f3ebf268be714db39b.jpg" width="100" height="200"/>
+  <img src="https://i.pinimg.com/564x/62/c8/1b/62c81bf33cbb05f3ebf268be714db39b.jpg" width="150" height="200"/>
   
 - Guerreiro:
   
-  <img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8" width="100" height="200"/>
+  <img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8" width="150" height="200"/>
   
 - Dragão:
   
