@@ -1,4 +1,4 @@
-<p align="center">#Projeto JogoRPG em Java</p>
+<p align="center"><h1>Projeto JogoRPG em Java</h1></p>
 
 ## Descrição
 Este projeto é parte do curso do ElasTech 2024, oferecido pelo PagBank em parceria com a SoulCode Academy,proposto pelo professor da turma Rafael Gomes.
