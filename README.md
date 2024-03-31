@@ -1,9 +1,56 @@
-# SmartTV
-<h1 align="center"> Exercício SmartTV - Bootcamp OrangeTech </h1>
+# Projeto JogoRPG em Java
 
-#### Regras a serem estabelecidas pela aplicação:
+## Descrição
+Este projeto é parte do curso do ElasTech 2024, oferecido pelo PagBank em parceria com a SoulCode Academy,proposto pelo professor da turma Rafael Gomes.
+Consiste na criação de um jogo de RPG simples em Java, onde o jogador interage com o sistema por meio do console.
 
-- características: ligada (boolean), canal (int) e volume (int)
-- Nossa Tv poderá ligar e desligar: mudar estado ligada;
-- Nossa TV aumentará e diminuirá o volume sempre em +1 ou -1;
-- Nossa TV poderá mudar de canal de 1 em 1 ou definindo o número correspondente
+## Funcionalidades
+- O jogador pode escolher entre duas classes de personagens: Guerreiro ou Mago.
+- Batalhas baseadas em turnos contra um inimigo representado pela classe Inimigo.
+- Exibição de mensagens indicando vitória ou derrota do jogador.
+- Lógica orientada a objetos permite fácil extensão do jogo com novas funcionalidades.
+
+## Detalhes das Classes
+
+### Classe JogoRPG
+- Método `main(String[] args)`: Ponto de entrada do programa. Cria uma instância da classe Jogo e inicia o jogo chamando o método `iniciarJogo()`.
+
+### Classe Jogo
+- Atributos `jogador` e `inimigo`: Representam o jogador e o inimigo no jogo.
+- Método `Jogo()`: Construtor da classe que inicializa um jogador e um inimigo.
+- Método `iniciarJogo()`: Controla o fluxo do jogo, permitindo que o jogador escolha sua classe e inicie uma batalha contra um inimigo.
+
+### Classe Jogador
+- Atributos `vida` e `ataque`: Representam a quantidade de vida e o poder de ataque do jogador.
+- Método `Jogador()`: Construtor que inicializa os atributos do jogador.
+- Método `atacar(Inimigo inimigo)`: Permite que o jogador ataque o inimigo, reduzindo sua vida.
+- Método `estaVivo()`: Verifica se o jogador está vivo com base em sua vida atual.
+
+### Classes Guerreiro e Mago (subclasses de Jogador)
+- Métodos `Guerreiro()` e `Mago()`: Construtores que inicializam os atributos específicos de cada classe de jogador.
+
+### Classe Inimigo
+- Atributos `vida` e `ataque`: Representam a quantidade de vida e o poder de ataque do inimigo.
+- Método `Inimigo()`: Construtor que inicializa os atributos do inimigo.
+- Método `atacar(Jogador jogador)`: Permite que o inimigo ataque o jogador, reduzindo sua vida.
+- Método `estaVivo()`: Verifica se o inimigo está vivo com base em sua vida atual.
+
+## Bonecos
+Aqui estão os personagens do jogo:
+- Mago:
+  ![Mago](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens\mago.jpg)
+- Guerreiro:
+  ![Guerreiro](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/guerreiro.jpg)
+- Dragão:
+  ![Dragão](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/dragon.jpg)
+
+## Pré-requisitos
+- Java Development Kit (JDK) instalado na versão 8 ou superior.
+- IDE de desenvolvimento Java, como Eclipse, IntelliJ IDEA, ou NetBeans.
+- Conhecimentos básicos de programação em Java.
+
+## Instalação
+1. Clone o repositório para o seu ambiente de desenvolvimento local:
+https://github.com/BiancalBarreto/JogoRPG.git
+2. Abra o projeto na sua IDE de preferência.
+3. Compile e execute o código-fonte do jogo.
