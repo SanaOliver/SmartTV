@@ -38,11 +38,11 @@ Consiste na criação de um jogo de RPG simples em Java, onde o jogador interage
 ## Bonecos
 Aqui estão os personagens do jogo:
 - Mago:
-  ![Mago](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens\mago.jpg)
+  <img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8(https://i.pinimg.com/564x/62/c8/1b/62c81bf33cbb05f3ebf268be714db39b.jpg)" width="100" height="100"/>
 - Guerreiro:
   <img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8" width="100" height="100"/>
 - Dragão:
-  ![Dragão](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/dragon.jpg)
+  <img src="https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8(https://acarajendragons.wordpress.com/wp-content/uploads/2012/08/c1c82-reddragon.jpg)" width="100" height="100"/>
 
 ## Pré-requisitos
 - Java Development Kit (JDK) instalado na versão 8 ou superior.
