@@ -58,7 +58,7 @@ https://github.com/BiancalBarreto/JogoRPG.git
 
 ## História
 
-Em um reino medieval de Valoria, um grande herói enfrentou o terrível dragão Volvagia que ameaçava destruir sua terra. Ele parte em uma jornada perigosa, equipado com sua coragem, habilidade e determinação. Ao chegar à caverna do dragão, um confronto épico se seguiu, com o guerreiro habilidoso esquivando-se das chamas ardentes do dragão e retaliando com golpes precisos de sua espada.
+Em um reino medieval de Valoria, um grande herói terá que enfrentar o terrível dragão Volvagia, que ameaça destruir sua terra. Ele parte em uma jornada perigosa, equipado com sua coragem, habilidade e determinação. Ao chegar à caverna do dragão, um confronto épico se seguiu, com o guerreiro habilidoso esquivando-se das chamas ardentes do dragão e retaliando com golpes precisos de sua espada.
 
 
 ## Personagens:
