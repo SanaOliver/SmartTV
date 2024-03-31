@@ -1,5 +1,6 @@
 # Projeto JogoRPG em Java
 
+
 ## Descrição:
 
 Este projeto é parte do curso do ElasTech 2024, oferecido pelo PagBank em parceria com a SoulCode Academy,proposto pelo professor da turma Rafael Gomes.
@@ -54,6 +55,7 @@ https://github.com/BiancalBarreto/JogoRPG.git
 3. Enfrente o inimigo em turnos, atacando e defendendo conforme necessário.
 4. Após a batalha, uma mensagem indicará se você venceu ou foi derrotado.
 
+
 ## História
 
 O guerreiro, chamado Aragon, é convocado por seu reino para enfrentar um temido dragão, chamado Volvagia, que ameaça destruir suas terras. Ele parte em uma jornada perigosa, equipado com sua coragem, habilidade e determinação. Ao chegar à caverna do dragão, Aragon é surpreendido ao encontrar não apenas a fera alada, mas também um poderoso mago que parece protegê-la.
@@ -89,73 +91,77 @@ Energia: 150
 Itens: armadura, espada, machado, escudo 
 Descrição: Aragon é robusto e ágil, com uma força incrível capaz de manejar armas pesadas e escudos com facilidade.
 
-### MAGO ATAQUE
+## Mago
 
-Raio Gélido
+### ATAQUE
+
+***Raio Gélido***
 Mana: 10
 Dano: 10
 Descrição: Você pode disparar um raio capaz de congelar.
 
-Bola de Fogo
+***Bola de Fogo***
 Mana: 20
 Dano: 20
 Descrição: Você pode disparar uma esfera de chamas de 20 cm de diâmetro que explode.
 
-Trovão
+***Trovão***
 Mana: 20
 Dano 20
 Descrição: Você pode atirar um raio que cai em cima do seu oponente
 
-Tempestade de Gelo
+***Tempestade de Gelo***
 Mana: 30
 Dano: 20
 Descrição: Uma chuva de pedaços finos e afiados de gelo cai sobre a área.
 
- ### MAGO DEFESA 
+ ### DEFESA 
 
-Escudo Mágico (Defesa)
+***Escudo Mágico***
 Mana: 10
 Defesa: 16
 Descrição: Você pode criar um escudo de energia para proteger por inteiro
 
-Familiar Defesa
+***Familiar Defesa***
 Mana: 15
 Defesa: 20
 Descrição: O dragão Volvagia te protege
 
-Recuperar Mana
+***Recuperar Mana***
 Descrição:Recupera 20 de mana, mas perde 10 pontos de vida em troca
 
-### GUERREIRO ATAQUE
+## Guerreiro
 
-Golpe Devastador 
+### ATAQUE
+
+***Golpe Devastador***
 Energia: 30 
 Dano: 35
 Descrição: Ataque corporal de espada
 
-Matador de Dragão 
+***Matador de Dragão***
 Energia: 20
 Dano: 25
 Descrição: ataque de machado
 
-Investida Brutal
+***Investida Brutal***
 Energia: 20
 Dano: 30
 Descrição: executa uma investida rápida e poderosa em direção ao alvo com espada
 
-Corte Furioso 
+***Corte Furioso***
 Energia: 15
 Dano: 20
 Descrição: desfere uma série rápida de golpes de espada
 
-### GUERREIRO DEFESA 
+### DEFESA 
 
-Postura Defensiva 
+***Postura Defensiva***
 Energia: 15
 Defesa: 20
 Descrição: proteção com o escudo
 
-Resistência Inabalável 
+***Resistência Inabalável*** 
 Energia: 10
 Defesa: 15
 Descrição:Proteção apenas com armadura
@@ -171,6 +177,8 @@ Descrição:Proteção apenas com armadura
 - [Ingrid](https://github.com/https://github.com/iingrud)
 - [Rayla Silva](https://github.com/https://github.com/raylasilva)
 - [Rosana Oliveira](https://github.com/https://github.com/SanaOliver)
+
+
 
 
 ### Que os jogos comecem!
