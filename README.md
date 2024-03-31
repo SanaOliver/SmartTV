@@ -58,9 +58,8 @@ https://github.com/BiancalBarreto/JogoRPG.git
 
 ## História
 
-O guerreiro, chamado Aragon, é convocado por seu reino para enfrentar um temido dragão, chamado Volvagia, que ameaça destruir suas terras. Ele parte em uma jornada perigosa, equipado com sua coragem, habilidade e determinação. Ao chegar à caverna do dragão, Aragon é surpreendido ao encontrar não apenas a fera alada, mas também um poderoso mago que parece protegê-la.
+Em um reino medieval de Valoria, um grande herói enfrentou o terrível dragão Volvagia que ameaçava destruir sua terra. Ele parte em uma jornada perigosa, equipado com sua coragem, habilidade e determinação. Ao chegar à caverna do dragão, um confronto épico se seguiu, com o guerreiro habilidoso esquivando-se das chamas ardentes do dragão e retaliando com golpes precisos de sua espada.
 
-O mago, conhecido como Gandolf, acredita que o dragão é essencial para o equilíbrio do mundo e está determinado a impedi-lo de ser morto.
 
 ## Personagens:
 
@@ -95,7 +94,7 @@ Descrição: Aragon é robusto e ágil, com uma força incrível capaz de maneja
 
 #### ATAQUE
 
-***Raio Gélido***
+1.***Raio Gélido***
 
 
 Mana: 10
@@ -106,7 +105,7 @@ Dano: 10
 
 Descrição: Você pode disparar um raio capaz de congelar.
 
-***Bola de Fogo***
+2.***Bola de Fogo***
 
 
 Mana: 20
@@ -117,7 +116,7 @@ Dano: 20
 
 Descrição: Você pode disparar uma esfera de chamas de 20 cm de diâmetro que explode.
 
-***Trovão***
+3.***Trovão***
 
 
 Mana: 20
@@ -128,7 +127,7 @@ Dano 20
 
 Descrição: Você pode atirar um raio que cai em cima do seu oponente
 
-***Tempestade de Gelo***
+4.***Tempestade de Gelo***
 
 
 Mana: 30
@@ -141,7 +140,7 @@ Descrição: Uma chuva de pedaços finos e afiados de gelo cai sobre a área.
 
  #### DEFESA 
 
-***Escudo Mágico***
+1.***Escudo Mágico***
 
 
 Mana: 10
@@ -152,7 +151,7 @@ Defesa: 16
 
 Descrição: Você pode criar um escudo de energia para proteger por inteiro
 
-***Familiar Defesa***
+2,***Familiar Defesa***
 
 
 Mana: 15
@@ -163,7 +162,7 @@ Defesa: 20
 
 Descrição: O dragão Volvagia te protege
 
-***Recuperar Mana***
+3.***Recuperar Mana***
 
 
 Descrição:Recupera 20 de mana, mas perde 10 pontos de vida em troca
@@ -172,7 +171,7 @@ Descrição:Recupera 20 de mana, mas perde 10 pontos de vida em troca
 
 #### ATAQUE
 
-***Golpe Devastador***
+1.***Golpe Devastador***
 
 
 Energia: 30 
@@ -183,12 +182,12 @@ Dano: 35
 
 Descrição: Ataque corporal de espada
 
-***Matador de Dragão***
+2.***Matador de Dragão***
 Energia: 20
 Dano: 25
 Descrição: ataque de machado
 
-***Investida Brutal***
+3.***Investida Brutal***
 
 
 Energia: 20
@@ -199,7 +198,7 @@ Dano: 30
 
 Descrição: executa uma investida rápida e poderosa em direção ao alvo com espada
 
-***Corte Furioso***
+4.***Corte Furioso***
 
 
 Energia: 15
@@ -212,7 +211,7 @@ Descrição: desfere uma série rápida de golpes de espada
 
 #### DEFESA 
 
-***Postura Defensiva***
+1.***Postura Defensiva***
 
 
 Energia: 15
@@ -223,7 +222,7 @@ Defesa: 20
 
 Descrição: proteção com o escudo
 
-***Resistência Inabalável*** 
+2.***Resistência Inabalável*** 
 
 
 Energia: 10
