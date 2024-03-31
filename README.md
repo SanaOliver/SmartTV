@@ -40,7 +40,7 @@ Aqui estão os personagens do jogo:
 - Mago:
   ![Mago](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens\mago.jpg)
 - Guerreiro:
-  ![Guerreiro](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/guerreiro.jpg)
+  ![Guerreiro]([C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/guerreiro.jpg](https://scontent.fssa17-1.fna.fbcdn.net/v/t31.18172-8/12671858_1717557908512095_2952536640627175599_o.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=aIzaMCCoucYAX_o9wQH&_nc_ht=scontent.fssa17-1.fna&oh=00_AfAQOg6nyPLQ4acsvyM4P1uPnQztIAdqOBDMiQYdaV3moA&oe=6630DBC8))
 - Dragão:
   ![Dragão](C:\Users\Rosana\Desktop\ElasTech 2024 - Agora vai!\BC ElasTech 2024 - Prof Rafael\JogoRPG\Imagens/dragon.jpg)
 
